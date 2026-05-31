@@ -1,4 +1,5 @@
 Task	                          Owner	              Branch	           Status
+
 1 & 2. Data model & Seeds	Betemariyam Abate	task-1-2-model-and-seeds	Done
 
 3. Category CRUD	        Betemariyam Abate	task-3-categories	        Done
