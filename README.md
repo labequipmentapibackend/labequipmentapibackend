@@ -4,6 +4,6 @@ Task-----------------------Owner---------------Branch-----------------Status
 
 3. Category CRUD-----------Betemariyam Abate----task-3-categories--------Done
 
-4 & 5. Equip & Maintenance--Bilal Shemisu-------task-4-5-equipment-maintenance-waiting
+4 & 5. Equip & Maintenance--Bilal Shemisu-------task-4-5-equipment-maintenance-Done
 
 6 & 7. Business Rules..-----Biladen Mustefa-----task-6-business-rules-----waiting
